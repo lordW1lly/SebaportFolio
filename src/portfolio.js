@@ -33,7 +33,7 @@ const projects = [
     description:
       "Creation of an e-commerce site for an entrepreneurship dedicated to the design, production and sale of jewelry items made with semi-precious stones. For the development of the same, a comprehensive process was carried out, covering the assembly of the databases, their corresponding relationships, and then integrating it into both the Back and Front-end development. Not only the technical skills were necessary, the dedication, dedication and teamwork were key for the development to be achieved successfully.",
     stack: ['SASS', 'Javascript', 'React.JS', 'Redux', 'Express.JS', 'PostgreSQL', 'Node.JS', 'Material UI', 'Auth0'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://frontend-pf-g1.vercel.app/',
     livePreview: 'https://github.com',
   },
   /* {
