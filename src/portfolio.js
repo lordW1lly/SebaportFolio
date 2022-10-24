@@ -26,7 +26,7 @@ const projects = [
       'Informative app about dogs breeds. Includes the possibilities of filtering dogs by differents criteria such as Temperament, Weight, Name, etc. Also offers the chance of creating a custom breed.',
     stack: ['Bootstrap', 'Javascript', 'React.JS', 'Redux', 'Express.JS', 'PostgreSQL', 'Node.JS'],
     sourceCode: 'https://github.com/lordW1lly/Dogs-PI',
-    livePreview: 'https://github.com',
+    livePreview: 'https://perritosapp-front.vercel.app/',
   },
   {
     name: 'Henry-Diamonds',
