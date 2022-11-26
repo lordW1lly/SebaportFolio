@@ -60,6 +60,11 @@ const skills = [
   'Node.JS',
   'PostgreSQL',
   'Bootstrap',
+  "C#",
+  ".NET",
+  "ASP",
+  "SQLServer"
+
 
 
 
