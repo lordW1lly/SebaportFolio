@@ -9,7 +9,7 @@ const about = {
   name: 'Sebastian D. Engelstajn',
   role: 'Full Stack Web Developer',
   description:
-    "I consider myself a passionate learner, I believe that continuous training and practice are essential to evolve as a developer. My first scripts started at Henry's full-stack web development bootcamp. With a solid background in economic sciences, specifically in relation to finance. Observer of the change that is taking place in our financial system, of which I hope soon, to be able to be part of the development side. I prioritize teamwork and respect among the people I work with. In constant change. Faithful believer that the best solutions are built with teamwork.",
+  "I am a passionate learner who believes that continuous training and practice are essential to evolve as a developer. My journey in web development started at Henry's full-stack web development bootcamp, where I built a solid foundation in web development. With a background in economic sciences and a particular interest in finance, I am keenly aware of the changes taking place in the financial industry and aspire to contribute to its development. I prioritize teamwork and respect in all my collaborations, believing that the best solutions are built collaboratively. I am constantly evolving and committed to growth as a developer.",
   resume: 'https://docs.google.com/document/d/e/2PACX-1vSgqWMbEcUn7oi-WBx4vf79kIZGXqABiZ65PaKH2XKMcotsx1aFHiCY37IJLtCx_onQUEY7O84JBQKe/pub',
   social: {
     linkedin: "https://www.linkedin.com/in/sebaengelstajn/?locale=en_US",
@@ -63,7 +63,10 @@ const skills = [
   "C#",
   ".NET",
   "ASP",
-  "SQLServer"
+  "SQLServer",
+  "VueJS",
+  "Azure",
+  "AWS"
 
 
 
